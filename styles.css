@@ -345,6 +345,7 @@ a.bfootertext:hover, a.bfootertext:focus{
 .graphicimg{
     display: block;
     width: auto;
+    height: auto;
     max-width: 100%;
     margin: 0 auto;
     max-height: 60vh;

@@ -344,7 +344,9 @@ a.bfootertext:hover, a.bfootertext:focus{
 }
 .graphicimg{
     display: block;
-    width: 100%;
+    width: auto;
+    margin: 0 auto;
+    max-width: 100%;
     max-height: 60vh;
     border-radius: 10px;
 }
